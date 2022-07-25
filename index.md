@@ -1,37 +1,12 @@
 ## Hello World!
 
-You can use the [editor on GitHub](https://github.com/tsumu-gu/tsumu-gu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### header level3
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- UL list01
+- UL list02
+- UL list03
+  - ul > ul Ulの入れ子はタブインデントのあとハイフン
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tsumu-gu/tsumu-gu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. OLは半角数字 + ピリオド
+1. 次の数字は2.じゃなくてもいい。1.のままでOLリストになる
+1. 1.にしとけばコピペで順番入れ替えても自動的に変えてくれる
